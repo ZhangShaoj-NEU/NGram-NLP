@@ -9,7 +9,7 @@ Shaojie Zhang
 This project provides a literature survey on the relevance, evolution, and hybrid applications of N-Gram language models in modern NLP.
 
 ## Files
-- `NGram_Language_Model_Report` : Final report (Word & PDF)
+- `NGram_Language_Model_Report` : Final report (docx & pdf)
 - `NGram_Language_Model_Presentation` : Final report powerpoint (pptx)
 - `Presentation` : recorded presentation video
 
